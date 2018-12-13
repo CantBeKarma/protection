@@ -20,6 +20,20 @@
 
 #define _protection_vspawner_included
 
+#define VTYPE_ROAD 0
+#define VTYPE_BIKE 1
+#define VTYPE_PLANE 2
+#define VTYPE_HELI 3
+#define VTYPE_BOAT 4
+#define VTYPE_TRAIN 5
+
+#define VEHICLE_TYPE_ROAD VTYPE_ROAD
+#define VEHICLE_TYPE_BIKE VTYPE_BIKE
+#define VEHICLE_TYPE_PLANE VTYPE_PLANE
+#define VEHICLE_TYPE_HELI VTYPE_HELI
+#define VEHICLE_TYPE_BOAT VTYPE_BOAT
+#define VEHCLE_TYPE_TRAIN VTYPE_TRAIN
+
 /*
 	Forwards
 */
